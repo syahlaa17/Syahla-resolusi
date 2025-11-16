@@ -1,2 +1,2 @@
 # Syahla-resolusi
-Repository untuk menyimpan rencanaj
+Repository untuk menyimpan rencana
